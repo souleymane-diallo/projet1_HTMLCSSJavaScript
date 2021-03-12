@@ -1,0 +1,33 @@
+
+
+  Bonne gestion des triggers responsive
+
+ pour le responsive web design j'ai clibé les mobiles à savoir les téléphoes et les tabletttes dont la taille d'écran varie entre 320px et 600px, 600px et 800px et 800px et 1024px   dans ma premiere requette @media
+
+	Ma première requête @media min-width: 320px and max-width: 600px
+
+	- j'ai caché le menu en le remplaçant par un menu hamburger lors du clic qui reafficher le menu
+	
+  	- j'ai deffini une largueur minimal pour mes blocs,
+	
+	- pour les slider pour une meilleure expérience utilisateur j'ai caché le cadre le l'écran du mac pour laisser les images,
+	
+	-j'ai defini mes bloc à 100% pour les mobiles pour qu'il s'affiche les l'un sur les autres,
+	
+	Ma deuxième requette @media min-width: 600px and max-width: 800px
+
+Ensuite j'ai ciblé les tablettes dont la taille était compris entre 600px et 800px 
+
+	- j'ai laissé le menu de navigation tout en reduissant le taille de la police, 
+	
+	j'ai fait ensorte d'afficher mes blocs par 2,
+
+	- pour les slider caché le cadre mac, pour ne laisser que les images, j'ai agrandi la taille de la police,
+		
+	Ma trosième requette @media min-width: 800px and max-width: 1024px
+
+Ensuite j'ai cliblé une taille pour les tablettes Aipad pro entre une taille de 800px et 1024px
+	
+	comme j'ai de la place j'ai augmenter la taille de la police pour le menu, mais bloc je l'ai 2 ou 3 sur la pages
+	
+	-j'ai retirer le cadre poour mes slider
